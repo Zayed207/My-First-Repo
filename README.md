@@ -78,6 +78,19 @@ User can issue or pay traffic violations.
 License History:
 
 
+Tips:
+
+Developed a full system with 3-tier architecture and applied SOLID principles for clean separation of concerns.
+
+Built and normalized a 14-table SQL Server database with primary/foreign key constraints and indexing for performance.
+
+Implemented ADO.NET data access layer with secure connection handling, resource disposal, and connection pooling.
+
+Designed and executed complex SQL JOIN queries for fast data retrieval across multiple tables.
+
+Created a multi-stage license testing workflow and a full violation management system with history tracking.
+
+
 
 
 
